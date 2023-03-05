@@ -2,6 +2,7 @@
 Develop a console-based application for a bookstore.
 
 Part I: User Login/ Register
+
 ● Application should start by showing two options: (1) Sign In (2) Register
 
 ● In the case of Sign In, ask the user to provide his “username” and “password”. If they
@@ -19,7 +20,10 @@ it matches then, let her set a new password and redirect her to login again with
 password.
 
 
+
+
 Part II: Display Catalog
+
 ● As the user successfully logs in, the application should display a list of available books,
 their points (equivalent to book price), and their status of availability (e.g., In-store,
 Out-of-Stock, 5 copies available).
@@ -32,7 +36,10 @@ purchased and the balance points that she can use to purchase new books. Of cour
 the end, there should be two options: (1) Back to the Catalog, (2) Logout.
 
 
+
+
 Part III: Make Transaction
+
 ● On selecting the “Purchase” option, show the catalog to the user and ask her to type the
 Book ID she wants to purchase.
 
